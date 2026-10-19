@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Orgalorgan",
+			"path": "Orgalorgan"
+		},
+		{
+			"name": "MIDI Clock",
+			"path": "MIDI Clock"
+		},
+		{
+			"name": "Orgalorganagain",
+			"path": "Orgalorganagain"
+		},
+		{
+			"name": "Guitar Hero MIDI",
+			"path": "Guitar Hero MIDI/Guitar Hero MIDI"
+		},
+		{
+			"name": "Flight Controller MIDI",
+			"path": "Flight Controller MIDI/Flight Controller MIDI"
+		}
+	],
+	"settings": {}
+}
